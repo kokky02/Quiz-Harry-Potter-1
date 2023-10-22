@@ -2,14 +2,14 @@ const questions = [
      {
           question: 'V jaké ulici bydlí Harry Potter?',
           answers: [
-               {text: 'Zobí', correct: true},
-               {text: 'Temné', correct: false},
-               {text: 'Bloudné', correct: false},
-               {text: 'Soví', correct: false},
+               {text: 'V Zobí', correct: true},
+               {text: 'V Temné', correct: false},
+               {text: 'V Bloudné', correct: false},
+               {text: 'V Soví', correct: false},
           ]
      },
      {
-          question: 'Kolik dárků dostat Dudley k narozeninám?',
+          question: 'Kolik dárků dostal Dudley k narozeninám?',
           answers: [
                {text: '12', correct: false},
                {text: '36', correct: true},
@@ -65,19 +65,19 @@ const questions = [
      {
           question: 'Koho Minerva McGonagallová vyzve jako prvního, aby si nasadil Moudrý klobouk? ?',
           answers: [
-               {text: 'Neville Longbottom', correct: false},
-               {text: 'Harry Potter', correct: false},
-               {text: 'Hermiona Grangerová', correct: true},
-               {text: 'Draco Malfoy', correct: false},
+               {text: 'Nevilla Longbottoma', correct: false},
+               {text: 'Harryho Pottera', correct: false},
+               {text: 'Hermionu Grangerovou', correct: true},
+               {text: 'Draca Malfoye', correct: false},
           ]
      },
      {
           question: 'Do jaké koleje chodí Harry Potter??',
           answers: [
-               {text: 'Mrzimor', correct: false},
-               {text: 'Nebelvír', correct: true},
-               {text: 'Zmijozel', correct: false},
-               {text: 'Havraspár', correct: false},
+               {text: 'Do Mrzimoru', correct: false},
+               {text: 'Do Nebelvíri', correct: true},
+               {text: 'Do Zmijozelu', correct: false},
+               {text: 'Do Havraspáru', correct: false},
           ]
      },
      {
@@ -90,7 +90,7 @@ const questions = [
           ]
      },
      {
-          question: 'Od koho dostane Harry Nimbus 2000?',
+          question: 'Od koho dostane Harry Potter Nimbus 2000?',
           answers: [
                {text: 'Od Rolandy Hoochové', correct: false},
                {text: 'Od Severuse Snapa', correct: false},
@@ -110,19 +110,19 @@ const questions = [
      {
           question: 'Jaké jádro má Harryho hůlka?',
           answers: [
-               {text: 'Blána z dračího srdce', correct: false},
+               {text: 'Blánu z dračího srdce', correct: false},
                {text: 'Pero z fénixe', correct: true},
-               {text: 'Žíně jednorožce', correct: false},
+               {text: 'Žíni jednorožce', correct: false},
                {text: 'Vlas víly', correct: false},
           ]
      },
      {
           question: 'V jaké pochutině Harry našel kartičku Albuse Brumbála?',
           answers: [
-               {text: 'V lékořicových žvýkačkách', correct: false},
+               {text: 'V Lékořicových žvýkačkách', correct: false},
                {text: 'V Dýnových paštičkách', correct: false},
                {text: 'V Bertíkových fazolkách', correct: false},
-               {text: 'V čokoládové žabce', correct: true},
+               {text: 'V Čokoládové žabce', correct: true},
           ]
      },
      {
@@ -162,7 +162,7 @@ const questions = [
           ]
      },
      {
-          question: 'Jak se jmenují Malfojovi kumpáni?',
+          question: 'Jak se jmenují Malfoyovi kumpáni?',
           answers: [
                {text: 'Marcus Flint a Gregory Goyle', correct: false},
                {text: 'Vincent Crabbe a Gregory Goyle', correct: true},
